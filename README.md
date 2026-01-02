@@ -7,8 +7,12 @@ Start with an implementation of an Eaton and Kortum (2002) model with tariffs an
 
 ## What MAGA tells the public about tariffs
 ![Navarro](Images/Navarro.png)
+
 ## What economists tell the public about tariffs
+### Justin Wolfers
 ![Wolfers](Images/Wolfers_tariff_DWL.jpg)
+
+### John Cochrane
 ![Cochrane](Images/Cochrane_unilateral_free_trade.png)
 >remember, there’s no point to the tariffs. The right policy as far as the economy is concerned is unilateral free trade.
 
