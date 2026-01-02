@@ -32,7 +32,7 @@ Start with an implementation of an Eaton and Kortum (2002) model with tariffs an
 ### Costinot and Rodriguez-Clare Handbook chapter
 
 ![CRC](Images/CRC_HIEV4Ch4_Fig1.png)
-- $\forall$ countries,  t^* ≈ 1/ε ≈ 20%.
+- $\forall$ countries,  t* ≈ 1/ε ≈ 20%.
 - Larger gains for small countries
 - Accounting for intermediates **increases the gains** from a unilateral tariff.
 - Ignatenko et al (2025) agree on the magnitude of optimal tariff for US, but they find 1.8% welfare gain (whereas CRC find less than 0.5%)
